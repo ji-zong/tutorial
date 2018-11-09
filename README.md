@@ -1,4 +1,4 @@
 # tutorial
 Hand-held tutorial
-Aquipment: Linux 、zookeeper-3.5.4
+Aquipment: Windoes10、Linux 、zookeeper-3.5.4
 
